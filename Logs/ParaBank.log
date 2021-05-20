@@ -1,0 +1,32 @@
+2021-05-19 21:56:29 INFO  TestBase:13 - Test Started: registerCustomerTest
+2021-05-19 21:56:30 INFO  TestBase:19 - Test Passed: registerCustomerTest
+2021-05-19 21:56:36 INFO  TestBase:13 - Test Started: logoutTest
+2021-05-19 21:56:37 INFO  TestBase:19 - Test Passed: logoutTest
+2021-05-19 21:56:43 INFO  TestBase:13 - Test Started: transferFundsTest
+2021-05-19 21:56:44 INFO  TestBase:19 - Test Passed: transferFundsTest
+2021-05-19 21:56:50 INFO  TestBase:13 - Test Started: payBillTest
+2021-05-19 21:56:51 INFO  TestBase:19 - Test Passed: payBillTest
+2021-05-20 12:46:52 INFO  TestBase:13 - Test Started: registerCustomerTest
+2021-05-20 12:46:52 INFO  TestBase:32 - Test Skipped!!registerCustomerTest
+2021-05-20 12:47:03 INFO  TestBase:13 - Test Started: logoutTest
+2021-05-20 12:47:03 INFO  TestBase:32 - Test Skipped!!logoutTest
+2021-05-20 12:47:14 INFO  TestBase:13 - Test Started: transferFundsTest
+2021-05-20 12:47:14 INFO  TestBase:32 - Test Skipped!!transferFundsTest
+2021-05-20 12:47:42 INFO  TestBase:13 - Test Started: payBillTest
+2021-05-20 12:47:42 INFO  TestBase:32 - Test Skipped!!payBillTest
+2021-05-20 12:55:06 INFO  TestBase:13 - Test Started: registerCustomerTest
+2021-05-20 12:55:06 INFO  TestBase:32 - Test Skipped!!registerCustomerTest
+2021-05-20 12:55:17 INFO  TestBase:13 - Test Started: logoutTest
+2021-05-20 12:55:17 INFO  TestBase:32 - Test Skipped!!logoutTest
+2021-05-20 12:55:28 INFO  TestBase:13 - Test Started: transferFundsTest
+2021-05-20 12:55:28 INFO  TestBase:32 - Test Skipped!!transferFundsTest
+2021-05-20 12:55:40 INFO  TestBase:13 - Test Started: payBillTest
+2021-05-20 12:55:40 INFO  TestBase:32 - Test Skipped!!payBillTest
+2021-05-20 14:21:02 INFO  TestBase:13 - Test Started: registerCustomerTest
+2021-05-20 14:21:03 INFO  TestBase:19 - Test Passed: registerCustomerTest
+2021-05-20 14:21:10 INFO  TestBase:13 - Test Started: logoutTest
+2021-05-20 14:21:11 INFO  TestBase:19 - Test Passed: logoutTest
+2021-05-20 14:21:18 INFO  TestBase:13 - Test Started: transferFundsTest
+2021-05-20 14:21:19 INFO  TestBase:19 - Test Passed: transferFundsTest
+2021-05-20 14:21:25 INFO  TestBase:13 - Test Started: payBillTest
+2021-05-20 14:21:27 INFO  TestBase:19 - Test Passed: payBillTest
